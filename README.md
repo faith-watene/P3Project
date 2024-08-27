@@ -17,10 +17,15 @@ prior models and interprets their results, explicitly justifies model changes ba
 of prior models and the problem context and describes any improvements found from running new models
 
 Below are the graphs and confusion matrices generated from this process;
+
 https://github.com/faith-watene/P3Project/blob/master/upload1.png
+
 https://github.com/faith-watene/P3Project/blob/master/upload2.png
+
 https://github.com/faith-watene/P3Project/blob/master/upload3.png
+
 https://github.com/faith-watene/P3Project/blob/master/upload4.png
+
 https://github.com/faith-watene/P3Project/blob/master/upload5.png
 
 ***Conclusion and Recommendations***
