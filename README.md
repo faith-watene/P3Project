@@ -1,13 +1,24 @@
 #P3Project
 
-***Business Understanding***
+***Business and Data Understanding***
 
 For this project, we will be building a classifier to predict whether a customer will ("soon") stop doing business with SyriaTel,
 a telecommunications company. This is a binary classification problem.
 Expectedly, the audience here would be the telecom business itself, interested in reducing how much money is lost because of customers
 who don't stick around very long. Therefore, we will be looking at any predictable patterns that can help us come to a conclusion.
 
-***Data Understanding***
+The data we will use for this project has no null values and has 21 columns containing the information we will require to carry out our analysis. The columns are listed below where we have loaded our data
+
+***Data Modelling and Evaluation***
+
+Our notebook demonstrates an iterative approach to model-building i.e.
+It runs and interprets a simple, baseline model for comparison, introduces new models that improve on 
+prior models and interprets their results, explicitly justifies model changes based on the results
+of prior models and the problem context and describes any improvements found from running new models
+
+Below are the graphs and confusion matrices generated from this process;
+
+
 
 ***Conclusion and Recommendations***
 
